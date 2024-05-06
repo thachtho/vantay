@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KKGDiWVkJ7EsdnJitHFgo5YuxtakQej2dXIBn5eVkLjywXDlFhE1F8BT6BMLgv7CpvDDgJAFhWI+PhdFZ6U7ZA==",
+  "success": true,
+  "projectFilePath": "/home/thobui/Documents/quanLyVanTay/quanLyVanTay/quanLyVanTay.csproj",
+  "expectedPackageFiles": [
+    "/home/thobui/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.20.1/microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
+  ],
+  "logs": []
+}

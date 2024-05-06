@@ -1,0 +1,7 @@
+/home/thobui/Documents/quanLyVanTay/quanLyVanTay/out/quanLyVanTay
+/home/thobui/Documents/quanLyVanTay/quanLyVanTay/out/appsettings.Development.json
+/home/thobui/Documents/quanLyVanTay/quanLyVanTay/out/appsettings.json
+/home/thobui/Documents/quanLyVanTay/quanLyVanTay/out/quanLyVanTay.dll
+/home/thobui/Documents/quanLyVanTay/quanLyVanTay/out/quanLyVanTay.deps.json
+/home/thobui/Documents/quanLyVanTay/quanLyVanTay/out/quanLyVanTay.runtimeconfig.json
+/home/thobui/Documents/quanLyVanTay/quanLyVanTay/out/quanLyVanTay.pdb
